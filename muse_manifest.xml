@@ -1,0 +1,260 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tierschutz-wissen.de" resolutions="1x" timestamp="1532001295482">
+  <folder name="css">
+    <file name="site_global.css" crc="3791276593"/>
+    <file name="master_a-musters_-kopie.css" crc="134809568" ref="über-uns:index:kontakt:aktuelles:beispielartikel-antibiotika"/>
+    <file name="_ber-uns.css" crc="4056246244" ref="über-uns"/>
+    <file name="index.css" crc="238269304" ref="index"/>
+    <file name="kontakt.css" crc="3830022252" ref="kontakt"/>
+    <file name="aktuelles.css" crc="170705108" ref="aktuelles"/>
+    <file name="newsletter.css" crc="151323070" ref="newsletter"/>
+    <file name="nomq_preview_master_a-musters_-kopie.css" crc="4049355196" ref="kontakt:index:über-uns:aktuelles:beispielartikel-antibiotika"/>
+    <file name="nomq_index.css" crc="3775121007" ref="index"/>
+    <file name="beispielartikel-antibiotika.css" crc="3918613450" ref="beispielartikel-antibiotika"/>
+  </folder>
+  <folder name="fonts">
+    <file name="absarasansot-regular.woff" crc="3831176670"/>
+    <file name="absarasansot-regular.eot" crc="452158995"/>
+    <file name="absarasansot-regular.svg" crc="4017427295"/>
+    <file name="absarasansot-bold.woff" crc="133341268"/>
+    <file name="absarasansot-bold.eot" crc="519338186"/>
+    <file name="absarasansot-bold.svg" crc="449876507"/>
+    <file name="absarasanspro-bold.woff" crc="3813039672"/>
+    <file name="absarasanspro-bold.eot" crc="3848054072"/>
+    <file name="absarasanspro-bold.svg" crc="4270322590"/>
+    <file name="absarasanspro.woff" crc="103338085"/>
+    <file name="absarasanspro.eot" crc="3907309284"/>
+    <file name="absarasanspro.svg" crc="4283358491"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="museutils.js" crc="340535759" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="whatinput.js" crc="86476730" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="webpro.js" crc="4059564322" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:aktuelles:kontakt:beispielartikel-antibiotika"/>
+    <file name="require.js" crc="7928878" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika"/>
+    <file name="form_check.php" crc="4020933626" ref="kontakt"/>
+    <file name="form_throttle.php" crc="4259590256" ref="kontakt"/>
+    <file name="form_process.php" crc="37464564" ref="kontakt"/>
+    <file name="form-u26641.php" crc="4266903779" ref="kontakt"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="444729463" seo="true" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika">
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="ic_search_black_24px.svg" crc="535683778" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_search_black_24px_poster_u15234.png" crc="365709341" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_search_black_24px-v2-01.svg" crc="3843993318" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_search_black_24px-v2-01_poster_u15240.png" crc="72809327" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_settings_black_24px.svg" crc="4257918469" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_settings_black_24px_poster_u15260.png" crc="342337285" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_settings_black_24px v2-01.svg" crc="4214155694" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="ic_settings_black_24px v2-01_poster_u15282.png" crc="4217824612" ref="index:aktuelles:beispielartikel-antibiotika"/>
+    <file name="dreieck-hellgrau.svg" crc="3787422805" ref="index:aktuelles:beispielartikel-antibiotika" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="dreieck-hellgrau_poster_.png" crc="4203084161" ref="aktuelles:beispielartikel-antibiotika"/>
+    <file name="stijn-te-strake-316914-unsplash.jpg" crc="3973038221" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="liz99-252849-unsplash.jpg" crc="4141611530" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="rind_(antonio-grosz_unsplashcom).jpg" crc="523571954" ref="aktuelles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="u12120.png" crc="3760555339" ref="index"/>
+    <file name="u12120-r.png" crc="3947455885" ref="index"/>
+    <file name="cclarge_weiss.png" crc="404448015" seo="true" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika">
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="cc-bylarge_weiss.png" crc="222156688" seo="true" ref="index:aktuelles:kontakt:über-uns:beispielartikel-antibiotika">
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="huehner_(hutchrock_pixabay_cc0).jpg" crc="112351832" ref="aktuelles">
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+    </file>
+    <file name="schaf_(sam-carter_unsplashcom).jpg" crc="4201589751" ref="aktuelles">
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+    </file>
+    <file name="u24186.png" crc="3760555339" ref="aktuelles"/>
+    <file name="u24186-r.png" crc="3947455885" ref="aktuelles"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="kontakt">
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="u26629.png" crc="3760555339" ref="kontakt"/>
+    <file name="u26629-r.png" crc="3947455885" ref="kontakt"/>
+    <file name="u27996.png" crc="3760555339" ref="über-uns"/>
+    <file name="u27996-r.png" crc="3947455885" ref="über-uns"/>
+    <file name="u31832.png" crc="3760555339" ref="newsletter"/>
+    <file name="u31832-r.png" crc="3947455885" ref="newsletter"/>
+    <file name="tw_-_logo-v3.svg" crc="3830797312" seo="true" ref="index:aktuelles:kontakt:über-uns:newsletter:beispielartikel-antibiotika">
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="über-uns" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="beispielartikel" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="musterbeitrag" alt=""/>
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+      <caption webpage="aktuelles" alt=""/>
+    </file>
+    <file name="tw_-_logo-v3_poster_.png" crc="189687825" ref="index:newsletter"/>
+    <file name="rachel-lees-267178-unsplash-u41755-fr.jpg" crc="4233879441" ref="aktuelles"/>
+    <file name="dreieck-hellgrau_poster_u89796.png" crc="4203084161" ref="index"/>
+    <file name="37652073101_5d855ab0a6_o.jpg" crc="267537769" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic_search_black_24px-white.svg" crc="4179736044" ref="index"/>
+    <file name="ic_search_black_24px-white_poster_u63584.png" crc="4254274159" ref="index"/>
+    <file name="u121202.png" crc="3760555339" ref="index"/>
+    <file name="u12120-r2.png" crc="3947455885" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="huehner_(hutchrock_pixabay_cc0)-v2-01-01-01-01-01-01-01-01-01-01-01.jpg" crc="3979549943" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spritzen_areeya_ann-s-u110066-fr.jpg" crc="3832586320" ref="index"/>
+    <file name="03.jpg" crc="260942940" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huehner_(hutchrock_pixabay_cc0)-v2-01-01-01-01-01-01-01-01-01-01-01-u711-fr.jpg" crc="3795908991" ref="index"/>
+    <file name="37652073101_5d855ab0a6_o-u89919-fr.jpg" crc="4263608954" ref="index"/>
+    <file name="stijn-te-strake-316914-unsplash-u110109-fr.jpg" crc="109955782" ref="index:aktuelles"/>
+    <file name="liz99-252849-unsplash-u90150-fr.jpg" crc="3916555419" ref="index"/>
+    <file name="spritzen_areeya_ann-s-u110066-fr2.jpg" crc="4257560378" ref="index"/>
+    <file name="03-u111149-fr.jpg" crc="244662270" ref="index"/>
+    <file name="liz99-252849-unsplash-u41774-fr.jpg" crc="42196865" ref="aktuelles"/>
+    <file name="spritzen_areeya_ann-s.jpg" crc="3961477162" ref="beispielartikel-antibiotika">
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+    </file>
+    <file name="schwein-spritze_(pattakorn-uttarasa_shutterstock).jpg" crc="503301423" ref="beispielartikel-antibiotika">
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+    </file>
+    <file name="baseline-print-24px.svg" crc="3829856212" ref="beispielartikel-antibiotika"/>
+    <file name="baseline-print-24px_poster_u115538.png" crc="4029545751" ref="beispielartikel-antibiotika"/>
+    <file name="ariwa_doku_anlagen_2009_02_25184037811_o.jpg" crc="3800653698" ref="beispielartikel-antibiotika">
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+    </file>
+    <file name="ariwa_doku_anlagen_2012_03_25159166822_o.jpg" crc="4137515460" ref="beispielartikel-antibiotika">
+      <caption webpage="beispielartikel-antibiotika" alt=""/>
+    </file>
+    <file name="u113460.png" crc="3760555339" ref="beispielartikel-antibiotika"/>
+    <file name="u113460-r.png" crc="3947455885" ref="beispielartikel-antibiotika"/>
+  </folder>
+  <file name="index.html" crc="152156461" seo="true" mt="1532001286702" redirect="true"/>
+  <file name="aktuelles.html" crc="284965771" seo="true" mt="1531999926286" redirect="true"/>
+  <file name="kontakt.html" crc="3935621418" seo="true" mt="1531999926286" redirect="true"/>
+  <file name="über-uns.html" crc="4107697174" seo="true" mt="1531999926286" redirect="true"/>
+  <file name="newsletter.html" crc="3836111086" seo="true" mt="1531495088995" redirect="true"/>
+  <file name="beispielartikel-antibiotika.html" crc="4028510154" seo="true" mt="1532001286700" redirect="true"/>
+</manifest>
